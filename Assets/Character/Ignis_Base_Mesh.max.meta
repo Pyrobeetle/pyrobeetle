@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 26d58f8103827984b91bce33a619211c
+timeCreated: 1444686175
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: b_ant_left1
+    100002: b_ant_left2
+    100004: b_ant_left3
+    100006: b_ant_Right1
+    100008: b_ant_Right2
+    100010: b_ant_Right3
+    100012: b_Arm_lower_Left
+    100014: b_Arm_lower_Right
+    100016: b_Arm_Upper_Left
+    100018: b_Arm_Upper_Right
+    100020: b_Carapace_Wing_Left
+    100022: b_Carapace_Wing_Right
+    100024: b_Head
+    100026: b_Left_Ankle
+    100028: b_Left_Arm_Ball
+    100030: b_Left_Finger1
+    100032: b_Left_Finger2
+    100034: b_Left_Finger3
+    100036: b_Left_Hand
+    100038: b_Left_Hand_Ball
+    100040: b_Left_Leg_Ball
+    100042: b_Left_Leg_Lower
+    100044: b_Left_Leg_Upper
+    100046: b_Left_Thumb
+    100048: b_Left_Toe1
+    100050: b_Left_Toe2
+    100052: b_Left_Toe3
+    100054: b_Neck
+    100056: b_Pelvis
+    100058: b_Pelvis_Left
+    100060: b_Pelvis_Right
+    100062: b_Right_Ankle
+    100064: b_Right_Arm_Ball
+    100066: b_Right_Finger1
+    100068: b_Right_Finger2
+    100070: b_Right_Finger3
+    100072: b_Right_Hand
+    100074: b_Right_Hand_Ball
+    100076: b_Right_Leg_Ball
+    100078: b_Right_Leg_Lower
+    100080: b_Right_Leg_Upper
+    100082: b_Right_Thumb
+    100084: b_Right_Toe1
+    100086: b_Right_Toe2
+    100088: b_Right_Toe3
+    100090: b_Root
+    100092: b_Spine1
+    100094: b_Spine2
+    100096: b_Spine3
+    100098: b_Torso
+    100100: //RootNode
+    100102: Object001
+    400000: b_ant_left1
+    400002: b_ant_left2
+    400004: b_ant_left3
+    400006: b_ant_Right1
+    400008: b_ant_Right2
+    400010: b_ant_Right3
+    400012: b_Arm_lower_Left
+    400014: b_Arm_lower_Right
+    400016: b_Arm_Upper_Left
+    400018: b_Arm_Upper_Right
+    400020: b_Carapace_Wing_Left
+    400022: b_Carapace_Wing_Right
+    400024: b_Head
+    400026: b_Left_Ankle
+    400028: b_Left_Arm_Ball
+    400030: b_Left_Finger1
+    400032: b_Left_Finger2
+    400034: b_Left_Finger3
+    400036: b_Left_Hand
+    400038: b_Left_Hand_Ball
+    400040: b_Left_Leg_Ball
+    400042: b_Left_Leg_Lower
+    400044: b_Left_Leg_Upper
+    400046: b_Left_Thumb
+    400048: b_Left_Toe1
+    400050: b_Left_Toe2
+    400052: b_Left_Toe3
+    400054: b_Neck
+    400056: b_Pelvis
+    400058: b_Pelvis_Left
+    400060: b_Pelvis_Right
+    400062: b_Right_Ankle
+    400064: b_Right_Arm_Ball
+    400066: b_Right_Finger1
+    400068: b_Right_Finger2
+    400070: b_Right_Finger3
+    400072: b_Right_Hand
+    400074: b_Right_Hand_Ball
+    400076: b_Right_Leg_Ball
+    400078: b_Right_Leg_Lower
+    400080: b_Right_Leg_Upper
+    400082: b_Right_Thumb
+    400084: b_Right_Toe1
+    400086: b_Right_Toe2
+    400088: b_Right_Toe3
+    400090: b_Root
+    400092: b_Spine1
+    400094: b_Spine2
+    400096: b_Spine3
+    400098: b_Torso
+    400100: //RootNode
+    400102: Object001
+    4300000: Object001
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Object001
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
