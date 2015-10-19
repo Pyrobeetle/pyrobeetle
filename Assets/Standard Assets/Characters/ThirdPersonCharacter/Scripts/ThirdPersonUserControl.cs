@@ -38,6 +38,11 @@ namespace UnityStandardAssets.Characters.ThirdPerson
             if (!m_Jump)
             {
                 m_Jump = CrossPlatformInputManager.GetButtonDown("Jump");
+
+		if (Input.GetKeyDown ("space")){
+                transform.Translate(Vector3.up * 260 * Time.deltaTime, Space.World);
+       		 } 
+
             }
         }
 
